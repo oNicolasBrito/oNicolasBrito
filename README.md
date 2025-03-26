@@ -4,9 +4,7 @@
 - 📫 Contate-me pelo email: nicolasbritolyra@gmail.com
 - 😄 Ele/Dele
 
-<div style="display: inline_block"><br>
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,react,py,c,mysql,figma,netlify,spring,vscode&theme=dark)](https://skillicons.dev)
-</div>
   
   ##
 
