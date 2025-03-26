@@ -16,8 +16,8 @@
   
   ##
 
-  [![card](https://github-readme-stats.vercel.app/api?username=oNicolasBrito&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=oNicolasBrito&hide=html&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+  [![card](https://github-readme-stats.vercel.app/api?username=oNicolasBrito&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=oNicolasBrito&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  
 <div> 
   <a href = "mailto:nicolasbritolyra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
